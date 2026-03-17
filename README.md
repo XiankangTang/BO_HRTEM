@@ -14,4 +14,4 @@ Run position.py to fit atomic column positions and obtain an updated structure.
 
 Run 3Dbuild.py to construct the 3D structure of a single region. In this step, the initial structures were obtained from the optimization of atomic column positions.
 
-Please note that this is an initial release. The full version of the code will be made available after the associated paper is accepted.
+Please note that this is an initial release. We will maintain and upgrade the code for newer versions of PyTorch, BoTorch, and GPyTorch in the future.
