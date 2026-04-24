@@ -15,3 +15,9 @@ Run position.py to fit atomic column positions and obtain an updated structure.
 Run 3Dbuild.py to construct the 3D structure of a single region. In this step, the initial structures were obtained from the optimization of atomic column positions.
 
 Please note that this is an initial release. We will maintain and upgrade the code for newer versions of PyTorch, BoTorch, and GPyTorch in the future.
+
+If you are using this software, please cite: 
+
+Tang, X., Zhang, Y., Barthel, J., Jia, C.-L., Dunin-Borkowski, R. E., Zhang, H., & Jin, L. (Year). Physics-informed Bayesian Optimization for Quantitative High-Resolution Transmission Electron Microscopy. arXiv. https://arxiv.org/html/2603.19943v3
+
+
